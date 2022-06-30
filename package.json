@@ -1,0 +1,12 @@
+{
+  "name": "rest-api-mongo-belajar",
+  "version": "1.0.0",
+  "description": "Learn create rest api with mongo db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Fariz Baiquni",
+  "license": "ISC",
+  "keywords": []
+}
